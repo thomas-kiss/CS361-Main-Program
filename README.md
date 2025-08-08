@@ -1,1 +1,1 @@
-# CS361-Main-Program
+# CS361-Inventory-Managment-Program
